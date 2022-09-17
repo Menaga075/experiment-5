@@ -5,7 +5,7 @@ public class Expt5{
     public static void main(String args[])
     {
         Scanner obj=new Scanner(System.in);
-        System.out.println(" 1. Addition \n 2.lower case and upper case concertion \n 3.number Pattern\n 4.Exit");
+        System.out.println(" 1. Addition \n 2.lower case and upper case conversion \n 3.number Pattern\n 4.Exit");
         int i=1;
         while(i==1)
         {
